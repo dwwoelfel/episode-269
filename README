@@ -1,3 +1,7 @@
-RailsCasts Episode #269: Template Inheritance
+= RailsCasts Example Application
 
-http://railscasts.com/episodes/269-template-inheritance
+Run these commands to try it out.
+
+  bundle
+  rake db:migrate
+  rails s
